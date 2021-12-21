@@ -51,4 +51,4 @@ Clicando <a href="https://github.com/">AQUI</a> você poderá acessar ao GitHub.
 
 6.Executar o comando git push-u origin main.
 
-**OBS.: Para a realização dos procedimentos anteriores,é necessário a autenticação do usauário do Github no terminal do Git (user.name,user.email,token).
+**OBS.: Para a realização dos procedimentos anteriores,é necessário a autenticação do usuário do Github no terminal do Git (user.name,user.email,token).
