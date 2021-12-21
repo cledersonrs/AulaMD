@@ -17,4 +17,4 @@ Git é um sistema de controle de versões distribuído.
 
 <img alt="Logo Git" src="https://blog.hostone.com.br/wp-content/uploads/2019/07/blog-git.jpg" width="30%" height="30%">
 
-Clique para acesso ao  <a href="https://git-scm.com/">Git.</a>
+Clique <a href="https://git-scm.com/">AQUI</a> para acessar o GIT.
