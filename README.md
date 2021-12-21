@@ -3,9 +3,9 @@ Projeto de estudo de arquivos do tipo markdown (.md)
 
 Aula sobre **markdown**.
 
-**trecho em negrito**
+**Trecho em negrito.**
 
-*trecho em itálico*
+*Trecho em itálico.*
 
 ## Markdown
 Markdown é uma linguagem simples de marcação. 
