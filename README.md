@@ -45,10 +45,10 @@ Clicando <a href="https://github.com/">AQUI</a> você poderá acessar ao GitHub.
 
 3.Executar o comando git add.
 
-4.executar o comando git commit-n"first commit".
+4.executar o comando git commit -m "first commit".
 
 5.Após a criação do repositório remoto no Github, executar o comando:git remote add origin "url do repositório remoto".
 
-7.Executar o comando git push-u origin main.
+6.Executar o comando git push-u origin main.
 
 **OBS.: Para a realização dos procedimentos anteriores,é necessário a autenticação do usauário do Github no terminal do Git (user.name,user.email,token).
